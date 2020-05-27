@@ -1,3 +1,3 @@
 # Just for Test
 
-well this is only a check the way to get more information into vim and git
+just for confirm! this is a test. isn't it?
